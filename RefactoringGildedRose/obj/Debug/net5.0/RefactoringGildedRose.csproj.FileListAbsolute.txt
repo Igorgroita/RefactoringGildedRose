@@ -1,0 +1,16 @@
+C:\Users\igroita\OneDrive - ENDAVA\Desktop\RefactoringGildedRose\RefactoringGildedRose\bin\Debug\net5.0\RefactoringGildedRose.exe
+C:\Users\igroita\OneDrive - ENDAVA\Desktop\RefactoringGildedRose\RefactoringGildedRose\bin\Debug\net5.0\RefactoringGildedRose.deps.json
+C:\Users\igroita\OneDrive - ENDAVA\Desktop\RefactoringGildedRose\RefactoringGildedRose\bin\Debug\net5.0\RefactoringGildedRose.runtimeconfig.json
+C:\Users\igroita\OneDrive - ENDAVA\Desktop\RefactoringGildedRose\RefactoringGildedRose\bin\Debug\net5.0\RefactoringGildedRose.runtimeconfig.dev.json
+C:\Users\igroita\OneDrive - ENDAVA\Desktop\RefactoringGildedRose\RefactoringGildedRose\bin\Debug\net5.0\RefactoringGildedRose.dll
+C:\Users\igroita\OneDrive - ENDAVA\Desktop\RefactoringGildedRose\RefactoringGildedRose\bin\Debug\net5.0\ref\RefactoringGildedRose.dll
+C:\Users\igroita\OneDrive - ENDAVA\Desktop\RefactoringGildedRose\RefactoringGildedRose\bin\Debug\net5.0\RefactoringGildedRose.pdb
+C:\Users\igroita\OneDrive - ENDAVA\Desktop\RefactoringGildedRose\RefactoringGildedRose\obj\Debug\net5.0\RefactoringGildedRose.csproj.AssemblyReference.cache
+C:\Users\igroita\OneDrive - ENDAVA\Desktop\RefactoringGildedRose\RefactoringGildedRose\obj\Debug\net5.0\RefactoringGildedRose.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igroita\OneDrive - ENDAVA\Desktop\RefactoringGildedRose\RefactoringGildedRose\obj\Debug\net5.0\RefactoringGildedRose.AssemblyInfoInputs.cache
+C:\Users\igroita\OneDrive - ENDAVA\Desktop\RefactoringGildedRose\RefactoringGildedRose\obj\Debug\net5.0\RefactoringGildedRose.AssemblyInfo.cs
+C:\Users\igroita\OneDrive - ENDAVA\Desktop\RefactoringGildedRose\RefactoringGildedRose\obj\Debug\net5.0\RefactoringGildedRose.csproj.CoreCompileInputs.cache
+C:\Users\igroita\OneDrive - ENDAVA\Desktop\RefactoringGildedRose\RefactoringGildedRose\obj\Debug\net5.0\RefactoringGildedRose.dll
+C:\Users\igroita\OneDrive - ENDAVA\Desktop\RefactoringGildedRose\RefactoringGildedRose\obj\Debug\net5.0\ref\RefactoringGildedRose.dll
+C:\Users\igroita\OneDrive - ENDAVA\Desktop\RefactoringGildedRose\RefactoringGildedRose\obj\Debug\net5.0\RefactoringGildedRose.pdb
+C:\Users\igroita\OneDrive - ENDAVA\Desktop\RefactoringGildedRose\RefactoringGildedRose\obj\Debug\net5.0\RefactoringGildedRose.genruntimeconfig.cache
